@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sat Dec 08 11:49:24 2018
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : NoiseFilter2
+Top-level Entity Name : NoiseFilter
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 352
+Total pins : 11
+Total virtual pins : 0
+Total block memory bits : 12,288
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1
+Total DLLs : 0
